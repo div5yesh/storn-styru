@@ -1,0 +1,6 @@
+{
+    "name": "TestTable",
+    "dimen": "3x4",
+    "header":"Row,Column",
+    "crud": "Row,Column,Cell"
+}
