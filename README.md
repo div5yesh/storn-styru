@@ -1,6 +1,9 @@
-Use "npm start" to start gulp server.
-The webpage is available at "localhost:8089/tabulateme"
+# Storn Styru
+A configurable table component.
 
-Know Issues:
-1. services data is not populated - is multilevel data.
-2. Number of pages is fixed, even if data is filtered.
+## Usage
+```
+npm install
+npm run dev
+```
+Goto localhost:8080
