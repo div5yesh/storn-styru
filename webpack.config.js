@@ -26,5 +26,9 @@ module.exports = {
             exclude: /node_modules/,
             use: "style-loader!css-loader"
         }]
-    }
+	},
+	
+	resolve: {
+		modules: [path.resolve(__dirname, "src"), "node_modules"]
+	}
 };
